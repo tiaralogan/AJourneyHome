@@ -1,5 +1,5 @@
 # AJourneyHome
-VideoGame Built with Unity 
+Video Game Built with Unity 
 
 
 Used unity to create a adventure video game
